@@ -10,6 +10,8 @@ Tableau, Excel, SQL
 
 4. Dataset provided by BRFSS (Behavioral Risk Factor Surveillance System) is used to meet CDC's requirements
 
+ <img src="Visualization Pipeline.png">  
+
 ## Challenges
 1. Structuring the Columns according to the Data Type.
 
@@ -26,6 +28,22 @@ Tableau, Excel, SQL
 
 6. People of Arizona, Alabama and Iowa are severely affected by Schizophrenia disorder with Male being a majority ratio of 59.36% and Female ratio of 40.64%. Schizophrenia largely affects the age group between 40 – 59 years old.
 
+## Some Visualisations
+<img src="General Dashboard Story.png">
 
+<img src="Mental Dashboard story.png">
 
+<img src="Overall Dashboard Story.png">
+
+<img src="Physical Dashboard story.png">
+
+<img src="Mental Health Detail.png">
+
+<img src="Poor Dashboard Story.png">
+
+<img src="Bipolar Disorder.png">
+
+<img src="Depression.png">
+
+<img src="Schizophrenia.png">
 
