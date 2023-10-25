@@ -10,8 +10,6 @@ Tableau, Excel, SQL
 
 4. Dataset provided by BRFSS (Behavioral Risk Factor Surveillance System) is used to meet CDC's requirements
 
- <img src="Visualization Pipeline.jpg">  
-
 ## Challenges
 1. Structuring the Columns according to the Data Type.
 
